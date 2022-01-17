@@ -1,0 +1,5 @@
+Credentials cache: API:B99B6089-A754-4205-B606-D2595714E08A
+        Principal: hkaddour@1337.MA
+
+  Issued                Expires               Principal
+Sep 20 16:01:02 2021  Sep 21 02:00:18 2021  krbtgt/1337.MA@1337.MA
